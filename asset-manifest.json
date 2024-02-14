@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/geek-labs/static/css/main.e61bf79e.css",
+    "main.js": "/geek-labs/static/js/main.53184692.js",
+    "static/js/592.f1d4430c.chunk.js": "/geek-labs/static/js/592.f1d4430c.chunk.js",
+    "static/media/profile.png": "/geek-labs/static/media/profile.e5135e96945def4a4522.png",
+    "static/media/street-suite-logo-04.png": "/geek-labs/static/media/street-suite-logo-04.cee54732eb3643f9df54.png",
+    "index.html": "/geek-labs/index.html",
+    "main.e61bf79e.css.map": "/geek-labs/static/css/main.e61bf79e.css.map",
+    "main.53184692.js.map": "/geek-labs/static/js/main.53184692.js.map",
+    "592.f1d4430c.chunk.js.map": "/geek-labs/static/js/592.f1d4430c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e61bf79e.css",
+    "static/js/main.53184692.js"
+  ]
+}
